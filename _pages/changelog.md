@@ -6,7 +6,13 @@ include_in_header: true
 
 # Changelog
 
-# **Version 1.0 (Initial Release)**
+# **Version 1.1**
+This update brings improvements to enhance your experience with Thrive - Happify Daily Mindset (formerly Thrive - Bloom with Purpose).
+
+#### What's New
+- Minor Improvements
+
+# **Version 1.0**
 Our first release of Thrive - Bloom with Purpose is coming soon to the App Store! Get ready to embark on your personal growth journey with daily wisdom and mindful insights.
 
 #### Features
@@ -16,7 +22,3 @@ Our first release of Thrive - Bloom with Purpose is coming soon to the App Store
 - Curated thematic collections for holistic development
 - Serene, distraction-free interface
 - Premium experience with exclusive content
-
-<br>
-
-Stay tuned for our launch!
