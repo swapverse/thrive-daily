@@ -6,7 +6,6 @@ include_in_header: true
 
 # Changelog
 
-###
 # **Version 1.0 (Initial Release)**
 Our first release of Thrive - Bloom with Purpose is coming soon to the App Store! Get ready to embark on your personal growth journey with daily wisdom and mindful insights.
 
