@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 # Privacy Policy for Thrive: Happify Daily Mindset
+(formerly known as Thrive: Bloom with Purpose)
 
 **Effective Date:** Mar 19, 2025
 
