@@ -4,21 +4,23 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-# Privacy Policy for Thrive: Bloom with Purpose
+# Privacy Policy for Thrive: Happify Daily Mindset
 
 **Effective Date:** Mar 19, 2025
 
-Thank you for using *Thrive: Bloom with Purpose*! Your privacy is important to us. This Privacy Policy explains how we handle information in our app.  
+This Privacy Policy applies globally to all users of *Thrive: Happify Daily Mindset*, regardless of their country of residence.
+
+Thank you for using *Thrive: Happify Daily Mindset*! Your privacy is important to us. This Privacy Policy explains how we handle information in our app.  
 
 ## 1. Information We Do Not Collect
-*Thrive: Bloom with Purpose* is designed with privacy in mind. We do **not**:  
+*Thrive: Happify Daily Mindset* is designed with privacy in mind. We do **not**:  
 - Collect, store, or process any personal data.  
 - Require users to create an account or provide personal information.  
 - Track, monitor, or analyze user activity.  
 - Share any data with third parties.  
 
-## 2. Use of Apple’s Share Functionality
-Our app allows users to share quotes along with background images using **Apple’s built-in share feature**. This action is performed locally on the user’s device, and *Thrive: Bloom with Purpose* does **not** track, store, or transmit any shared content.  
+## 2. Use of Apple's Share Functionality
+Our app allows users to share quotes along with background images using **Apple's built-in share feature**. This action is performed locally on the user's device, and *Thrive: Happify Daily Mindset* does **not** track, store, or transmit any shared content.  
 
 ## 3. Third-Party Content
 The app provides wallpapers and inspirational quotes sourced from publicly available online platforms. If you believe any content infringes copyright or should be removed, please contact us.  
