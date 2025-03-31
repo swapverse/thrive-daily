@@ -32,7 +32,23 @@ This app does **not** display advertisements, use analytics tools, or embed thir
 ## 5. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be reflected here, and continued use of the app signifies acceptance of the updated policy.  
 
-## 6. Contact Us
+## 6. App Name in Different Languages
+The app is identical across all regions with the same version and features, only the app name varies by region as follows:
+
+- English (US): *Thrive - Happify Daily Mindset*
+- English (UK): *Thrive - Happify Daily Mindset*
+- English (Australia): *Thrive - Motivation & Quotes*
+- English (Canada): *Thrive - Motivation & Quotes*
+- Chinese (Simplified): *Thrive - 每日语录 & 成长心灵*
+- French: *Thrive - Motivation Quotidien*
+- German: *Thrive - Sprüche & Mindset*
+- Hindi: *Thrive - Self Growth & Mantras*
+- Japanese: *Thrive - アファメーション & 毎日の格言*
+- Korean: *Thrive - 명언 & Motivation 매일*
+- Portuguese (Brazil): *Thrive - Frases & Motivação*
+- Russian: *Thrive - Мотивация&Аффирмации*
+
+## 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:  
 
 📧 **Email:** [swapverse00@gmail.com](mailto:swapverse00@gmail.com)  
