@@ -5,6 +5,13 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 1.3**
+#### What's New
+- Fresh new app icon for a more modern, calming look
+
+# **Version 1.2**
+#### What's New
+- Revamped onboarding experience to better guide new users
 
 # **Version 1.1**
 This update brings improvements to enhance your experience with Thrive - Happify Daily Mindset (formerly Thrive - Bloom with Purpose).

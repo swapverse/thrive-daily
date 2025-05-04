@@ -4,24 +4,24 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-# Privacy Policy for Thrive - Happify Daily Mindset
+# Privacy Policy for Thrive - Grow Daily
 (formerly known as Thrive - Bloom with Purpose)
 
 **Effective Date:** Mar 19, 2025
 
-This Privacy Policy applies globally to all users of *Thrive - Happify Daily Mindset*, regardless of their country of residence.
+This Privacy Policy applies globally to all users of *Thrive*, regardless of their country of residence.
 
-Thank you for using *Thrive - Happify Daily Mindset*! Your privacy is important to us. This Privacy Policy explains how we handle information in our app.  
+Thank you for using *Thrive*! Your privacy is important to us. This Privacy Policy explains how we handle information in our app.  
 
 ## 1. Information We Do Not Collect
-*Thrive - Happify Daily Mindset* is designed with privacy in mind. We do **not**:  
+*Thrive* is designed with privacy in mind. We do **not**:  
 - Collect, store, or process any personal data.  
 - Require users to create an account or provide personal information.  
 - Track, monitor, or analyze user activity.  
 - Share any data with third parties.  
 
 ## 2. Use of Apple's Share Functionality
-Our app allows users to share quotes along with background images using **Apple's built-in share feature**. This action is performed locally on the user's device, and *Thrive - Happify Daily Mindset* does **not** track, store, or transmit any shared content.  
+Our app allows users to share quotes along with background images using **Apple's built-in share feature**. This action is performed locally on the user's device, and *Thrive* does **not** track, store, or transmit any shared content.  
 
 ## 3. Third-Party Content
 The app provides wallpapers and inspirational quotes sourced from publicly available online platforms. If you believe any content infringes copyright or should be removed, please contact us.  
@@ -35,7 +35,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## 6. App Name in Different Languages
 The app is identical across all regions with the same version and features, only the app name varies by region as follows:
 
-- English (US): *Thrive - Happify Daily Mindset*
+- English (US): *Thrive: Grow Daily*
 - English (UK): *Thrive - Happify Daily Mindset*
 - English (Australia): *Thrive - Motivation & Quotes*
 - English (Canada): *Thrive - Motivation & Quotes*
